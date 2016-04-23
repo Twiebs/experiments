@@ -1,3 +1,5 @@
+A very small language styled after the C Preprocessor for manipulating C/C++ code directly in the textfile. Provides a small set of procedures and terse syntax for operating on text.  Considers C/C++ sematics such as scope, and indirection when applying text modifications
+
 
 ##Current Features:
 
